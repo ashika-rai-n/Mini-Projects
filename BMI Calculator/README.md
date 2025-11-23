@@ -9,10 +9,11 @@ A simple **BMI (Body Mass Index) Calculator** built using **HTML, CSS, and JavaS
 - Supports **Dark/Light Mode Toggle** for better user experience  
 
 ## How to Use
-1. Open `bmi.html` in your browser.  
-2. Enter your weight and height.  
-3. Click **Calculate BMI** to see your BMI and health category.  
-4. Use the toggle button to switch between dark and light mode.  
+1. Download all three files (index.html, style.css and script.js)
+2. Open `bmi.html` in your browser.  
+3. Enter your weight and height.  
+4. Click **Calculate BMI** to see your BMI and health category.  
+5. Use the toggle button to switch between dark and light mode.  
 
 ---
 
