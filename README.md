@@ -40,11 +40,17 @@ Contributions are welcome! If you'd like to add a mini project:
    cd "Your Project Name"
 ```
 5. **Include** your project files (`index.html`, `style.css`, `script.js`, etc.)
+
 6. **Add** a README.md inside your project folder with:
    - Project description
    - Features
    - How to run
 7. **Update** the projects array in the main `index.html` file with your project details
+   - Open the root `index.html` file
+   - Find the `projects` array in the JavaScript section
+   - Add a new object with your project's info (title, icon, description, features, link)
+   - Follow the format of existing projects
+   
 8. **Commit** and **push** your changes
 ```bash
    git add .
