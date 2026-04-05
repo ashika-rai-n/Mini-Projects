@@ -46,12 +46,13 @@ Contributions are welcome! If you'd like to add a mini project:
    - Features
    - How to run
 7. **Update** the projects array in the main `index.html` file with your project details
+ ```bash
    - Open the root `index.html` file
    - Find the `projects` array in the JavaScript section
    - Add a new object with your project's info (title, icon, description, features, link)
    - Follow the format of existing projects
-   
-8. **Commit** and **push** your changes
+ ```
+9. **Commit** and **push** your changes
 ```bash
    git add .
    git commit -m "Add Your Project Name"
